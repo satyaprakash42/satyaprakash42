@@ -1,3 +1,4 @@
+![logo](https://github.com/ptiamaresh13/ptiamaresh13/blob/main/Linkedin%20(1).png)
 <h1 align="center">Hi 👋, I'm Satya Prakash Sahu</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
